@@ -1,25 +1,25 @@
 'use strict';
 
 exports.BattlePokedex = {
-	rotomheat: {
+	Machamp: {
 		inherit: true,
-		types: ["Electric", "Ghost"],
+		types: ["Fighting"],
 	},
-	rotomwash: {
+	Garchomp: {
 		inherit: true,
-		types: ["Electric", "Ghost"],
+		types: ["Ground", "Dragon"],
 	},
-	rotomfrost: {
+	Gyarados: {
 		inherit: true,
-		types: ["Electric", "Ghost"],
+		types: ["Water", "Flying"],
 	},
-	rotomfan: {
+	Moltres: {
 		inherit: true,
-		types: ["Electric", "Ghost"],
+		types: ["Fire", "Flying"],
 	},
-	rotommow: {
+	porygon2: {
 		inherit: true,
-		types: ["Electric", "Ghost"],
+		types: ["Sound"],
 	},
 	gengar: {
 		inherit: true,
